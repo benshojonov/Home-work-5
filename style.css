@@ -75,7 +75,7 @@ hr{
     font-size: 12px;
 }
 .h2{
-    font-size: 56px;
+    font-size: 50px;
     color: #0A093D;
     margin-top: 20px;
     margin-bottom: 18px;
@@ -83,4 +83,37 @@ hr{
 .p2{
     font-size: 18px;
     color: #656464;
+}
+.section2{
+    margin: auto;
+    max-width: 1200px;
+    display: flex;
+    margin-top: 90px;
+    gap: 60px;
+    margin-bottom: 35px;
+}
+.right2{
+    display: flex;
+    gap: 30px;
+}
+.photo{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.left2{
+    margin-top: 75px;
+}
+.pp{
+    color: #217BF4;
+    font-size: 18px;
+}
+.ing{
+    display: inline-block;
+}
+
+.ing2{
+    width: 270px;
+    height: 368px;
+    margin-top: 90px;
 }
