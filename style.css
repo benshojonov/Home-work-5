@@ -36,3 +36,51 @@ hr{
     margin: auto;
     max-width: 1200px;
 }
+.but1{
+    background-color: #217BF4;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 14px;
+    border: none;
+    
+}
+.butt{
+    display: flex;
+    gap: 18px;
+    margin-top: 40px;
+}
+.but2{
+    color: #217BF4;
+    padding: 13px 20px;
+    background-color: #217cf400;
+    border: none;
+    border: 2px solid #217BF4;
+    border-radius: 14px;
+}
+.section1{
+    margin: auto;
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    background-color: #DEECFE;
+    padding-bottom: 80px;
+    margin-top: 50px;
+}
+.p1{
+    color: #217BF4;
+    background-color: #E6F0FD;
+    border-radius: 8px;
+    padding: 13px 25px;
+    display: inline-block;
+    font-size: 12px;
+}
+.h2{
+    font-size: 56px;
+    color: #0A093D;
+    margin-top: 20px;
+    margin-bottom: 18px;
+}
+.p2{
+    font-size: 18px;
+    color: #656464;
+}
