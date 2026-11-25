@@ -234,5 +234,76 @@ span{
     margin: auto;
     max-width: 1200px;
     display: flex;
+}
+.p6{
+    font-size: 16px;
+    color: #656464;
+    text-align: center;
+}
 
+.active{
+     background-color: #217BF4;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 14px;
+    border: none;
+}
+.act{
+    margin: auto;
+    max-width: 380px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-color: #F2F7FE;
+    padding: 10px;
+    border-radius: 14px;
+}
+.act p{
+    color: #2F2C4A;
+    font-size: 16px;
+}
+.profile{
+    margin: auto;
+    max-width: 1200px;
+    margin-top: 40px;
+    display: flex;
+    gap: 50px;
+}
+.profile1 h2{
+    color: #2F2C4A;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.profile1 p{
+    font-size: 16px;
+    color: #656464;
+    margin-top: 15px;
+}
+.poz{
+    position: relative;
+    left: 5px;
+    bottom: 5px;
+    
+}
+.poz img{
+    margin-top: 40px;
+}
+.gtr{
+    position: absolute;
+    left: 63px;
+    bottom: 1px;
+    
+}
+.profile1{
+    width: 250px;
+    height: 320px;
+    box-shadow: 1px 1px 5px grey;
+    text-align: center;
+    border-radius: 14px;
+}
+.section5{
+    margin-top: 10px;
+    margin-bottom: 110px;
 }
