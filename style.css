@@ -372,10 +372,35 @@ span{
     color: white;
 }
 .obshiy3{
+    margin: auto;
+    max-width: 1200px;
     display: flex;
     padding: 70px;
+    gap: 220px;
     
 }
 .boxin{
     display: flex;
+    gap: 55px;
+}
+.text h3{
+   
+    color: #FFFFFF;
+    margin-bottom: 25px;
+    font-family: sans-serif;
+}
+.text p{
+    font-size: 15px;
+    color: #E7E7E7;
+    margin-bottom: 20px;
+}
+.right10 h3{
+    color: #FFFFFF;
+    margin-bottom: 25px;
+    font-family: sans-serif;
+}
+.right10{
+     font-size: 15px;
+    color: #E7E7E7;
+    margin-bottom: 20px;
 }
