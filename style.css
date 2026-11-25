@@ -36,7 +36,7 @@ hr{
     margin: auto;
     max-width: 1200px;
 }
-.but1{
+.button1{
     background-color: #217BF4;
     color: white;
     padding: 15px 20px;
@@ -49,7 +49,7 @@ hr{
     gap: 18px;
     margin-top: 40px;
 }
-.but2{
+.button2{
     color: #217BF4;
     padding: 13px 20px;
     background-color: #217cf400;
@@ -62,7 +62,7 @@ hr{
     max-width: 1200px;
     display: flex;
     align-items: center;
-    background-color: #DEECFE;
+   
     padding-bottom: 80px;
     margin-top: 50px;
 }
@@ -177,6 +177,62 @@ span{
     border: none;
     margin-top: 30px;
 }
-.left3{
-    
+.section4{
+    margin-top: 150px;
+    margin-bottom: 60px;
+}
+.centr{
+ text-align: center;
+}
+.p4{
+    font-size: 18px;
+    color: #217BF4;
+}
+.p5{
+    font-size: 16px;
+    color: #656464;
+}
+.centr h2{
+    color: #0A093D;
+    font-size: 30px;
+    margin-top: 8px;
+    margin-bottom: 15px;
+}
+.bx1{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    width: 400px;
+    height: 80px;
+    box-shadow: 1px 1px 5px grey;
+    border-radius: 14px;
+    margin-bottom: 40px;
+}
+.ik{
+    margin-top: 13px;
+}
+.colum1{
+    margin: auto;
+    max-width: 1200px;
+    margin-top: 50px;
+}
+.colum2{
+    margin: auto;
+    max-width: 1200px;
+    margin-top: 50px;
+}
+.min h3{
+ color: #2F2C4A;
+ font-size: 20px;
+ margin-bottom: 10px;
+}
+.min p{
+    color: #656464;
+    font-size: 16px;
+}
+.centure{
+    margin: auto;
+    max-width: 1200px;
+    display: flex;
+
 }
