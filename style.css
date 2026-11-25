@@ -331,3 +331,39 @@ span{
     background-color: #E2EDFA;
     padding: 50px;
 }
+.section7{
+    margin: auto;
+    max-width: 1200px;
+    margin-top: 90px;
+
+}
+.align{
+    text-align: center;
+}
+.align p{
+    color: #217BF4;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.align h2{
+    font-size: 36px;
+    color: #0A093D;
+    margin-bottom: 70px;
+}
+.news h3{
+    color: #2F2C4A;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.news p{
+  color: #656464;
+  font-size: 16px;
+}
+.obshiy2{
+    display: flex;
+    gap: 75px;
+}
+.section7{
+    margin-bottom: 90px;
+}
