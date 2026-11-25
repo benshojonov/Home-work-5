@@ -404,3 +404,17 @@ span{
     color: #E7E7E7;
     margin-bottom: 20px;
 }
+.footer{
+    margin: auto;
+    
+    display: flex;
+    justify-content: center;
+    gap: 360px;
+    align-items: center;
+    padding: 20px;
+    background-color: #20202D;
+}
+.footer p{
+    color: #F6F6F6;
+    font-size: 16px;
+}
