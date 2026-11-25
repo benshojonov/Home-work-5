@@ -307,3 +307,27 @@ span{
     margin-top: 10px;
     margin-bottom: 110px;
 }
+.obshiy{
+    margin: auto;
+    max-width: 1200px;
+    display: flex;
+    gap: 150px;
+}
+.market{
+    width: 130px;
+    height: 50px;
+    margin-top: 24px;
+}
+.play{
+    display: flex;
+}
+.tel{
+    width: 560px;
+    height: 400px;
+}
+.section6{
+    margin: auto;
+    max-width: 1300px;
+    background-color: #E2EDFA;
+    padding: 50px;
+}
