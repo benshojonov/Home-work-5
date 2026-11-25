@@ -367,3 +367,15 @@ span{
 .section7{
     margin-bottom: 90px;
 }
+.section8{
+    background-color: #0A093D;
+    color: white;
+}
+.obshiy3{
+    display: flex;
+    padding: 70px;
+    
+}
+.boxin{
+    display: flex;
+}
